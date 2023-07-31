@@ -11,3 +11,12 @@ dataset resource is here: <br>
 MAGIC dataset: [https://archive.ics.uci.edu/ml/datase...](https://archive.ics.uci.edu/dataset/159/magic+gamma+telescope) <br>
 Bikes dataset: [https://archive.ics.uci.edu/ml/datase...](https://archive.ics.uci.edu/dataset/560/seoul+bike+sharing+demand)https://archive.ics.uci.edu/dataset/560/seoul+bike+sharing+demand <br>
 Seeds/wheat dataset: [https://archive.ics.uci.edu/ml/datase...](https://archive.ics.uci.edu/dataset/236/seeds)https://archive.ics.uci.edu/dataset/236/seeds
+<br> <br>
+
+### 3. <br>
+Onlin course materials of "Deep Learning and Neural Networks with keras" directory <br>
+https://deeplizard.com/learn/video/RznKVRTFkBY 
+
+### 4. <br>
+Onlin course materials of "PyTorch for deep learning by Daniel Bourke" directory <br>
+https://www.learnpytorch.io/ 
