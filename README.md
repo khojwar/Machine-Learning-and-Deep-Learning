@@ -20,3 +20,7 @@ https://deeplizard.com/learn/video/RznKVRTFkBY
 ### 4. <br>
 Onlin course materials of "PyTorch for deep learning by Daniel Bourke" directory <br>
 https://www.learnpytorch.io/ 
+
+### 5. <br>
+NLP <br>
+for more NLP Github code resources: https://github.com/tensorflow/tpu/tree/master/tools/colab
